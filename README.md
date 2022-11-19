@@ -2,7 +2,7 @@
 
 # Here are the steps I followed to get rid of `Visual Studio`.  
 
-## STep 1 :  
+## Step 1 :  
 	Download Latest dotnet SDK  
 ## Step 2 :  
 	Create a directory of your project name (without spaces)  
