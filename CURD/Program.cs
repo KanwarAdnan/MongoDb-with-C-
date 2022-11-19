@@ -3,7 +3,6 @@ using MongoDB.Driver;
 using MongoDB.Bson;
 
 public class Database{
-    // get client
     private string url = "";
     MongoClient? client = null;
     MongoDB.Driver.IMongoDatabase? database = null;
